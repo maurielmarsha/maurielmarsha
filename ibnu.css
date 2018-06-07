@@ -1,0 +1,46 @@
+body {
+	background-color: #98b3b3;
+	font-size: 20px;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color:#936c89;
+	border: dashed;
+}
+
+h1 {
+	text-align: center;
+	font-size: 60px;
+	font-family: Satisfy;
+}
+
+h2{
+	font-family: Open Sans Condensed;
+	font-size: 25px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+h3{
+	font-family: Open Sans Condensed;
+	font-size: 25px;
+	margin-right: 20px;
+	margin-left: 20px;
+
+}
+
+h4{
+	font-family: Open Sans Condensed;
+	font-size: 25px;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-bottom: 60px;
+
+}
+ img {
+ 	margin-right: 20px;
+	margin-left: 20px;
+	margin-bottom: 60px;
+
+ 	
+ }
